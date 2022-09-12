@@ -1,0 +1,17 @@
+body {
+    background-color: #F8F9FA;
+}
+.carousel-inner{
+    height: 600px;
+}
+.h01{
+    font-size: 60px;
+    font-style: bold;
+}
+.p01{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.btn01 {
+    font-size: 20px;
+}
