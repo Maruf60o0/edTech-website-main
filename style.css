@@ -15,3 +15,44 @@ body {
 .btn01 {
     font-size: 20px;
 }
+.explore{
+    position: relative;
+}
+.explore02{
+    position: absolute;
+    top:20%
+}
+.p-grey{
+    font-size: 20px;
+    color: #777777;
+}
+.p-lightgrey{
+    color: #969898;
+    font-size: 14px;
+}
+.p-h1{
+    font-size: 60px;
+    
+}
+.ready{
+    margin-top: 80px;
+    height: 100px;
+}
+.box{
+    height: 250px;
+    background-color: #289BDE;
+    position: relative;
+}
+.btn-ready{
+    color: #289BDE;
+}
+/* .box01{
+    position: relative;
+    top: 50px;
+    left: 60px;
+}
+.box02{
+    position: relative;
+    top:50px;
+    left: 160px;
+} */
